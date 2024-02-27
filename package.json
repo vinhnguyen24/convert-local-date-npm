@@ -1,0 +1,18 @@
+{
+  "name": "convert-local-date-npm",
+  "version": "1.0.1",
+  "description": "A package to help auto convert UTC date to local date",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinhnguyen24"
+  },
+  "keywords": [
+    "local"
+  ],
+  "author": "vinhnguyen24",
+  "license": "ISC"
+}
