@@ -1,6 +1,6 @@
 {
   "name": "convert-local-date-npm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A package to help auto convert UTC date to local date",
   "main": "index.js",
   "scripts": {
