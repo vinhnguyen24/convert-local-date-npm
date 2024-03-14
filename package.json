@@ -7,17 +7,12 @@
     "test": "npm run test"
   },
   "dependencies": {
-    "convert-local-date-npm": "^1.0.3"
-  },
-  "devDependencies": {
-    "jest": "^27.4.5"
+    "convert-local-date-npm": "^1.0.3",
+    "vietnamese-lunar-date": "^1.0.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/vinhnguyen24/convert-local-date-npm"
-  },
-  "dependencies": {
-    "convert-local-date-npm": "^1.0.3"
   },
   "keywords": [
     "local"
