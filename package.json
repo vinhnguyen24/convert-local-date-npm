@@ -16,6 +16,9 @@
     "type": "git",
     "url": "https://github.com/vinhnguyen24/convert-local-date-npm"
   },
+  "dependencies": {
+    "convert-local-date-npm": "^1.0.3"
+  },
   "keywords": [
     "local"
   ],
